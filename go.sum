@@ -4,6 +4,10 @@ github.com/araddon/gou v0.0.0-20190110011759-c797efecbb61 h1:Xz25cuW4REGC5W5UtpM
 github.com/araddon/gou v0.0.0-20190110011759-c797efecbb61/go.mod h1:ikc1XA58M+Rx7SEbf0bLJCfBkwayZ8T5jBo5FXK8Uz8=
 github.com/bitly/go-hostpool v0.0.0-20171023180738-a3a6125de932 h1:mXoPYz/Ul5HYEDvkta6I8/rnYM5gSdSV2tJ6XbZuEtY=
 github.com/bitly/go-hostpool v0.0.0-20171023180738-a3a6125de932/go.mod h1:NOuUCSz6Q9T7+igc/hlvDOUdtWKryOrtFyIVABv/p7k=
+github.com/dave-miles/elastigo v0.0.0-20191127161208-bb2545536d8b h1:t2BBZ6ZaT+MY4wkpiczwsNHVOhoMbu7LNzUUfuwJ8LY=
+github.com/dave-miles/elastigo v0.0.0-20191127161208-bb2545536d8b/go.mod h1:AqNOR6fGejDPK11OrVN7jHG/db9n3kPMapBcqcjWa8Y=
+github.com/dave-miles/goreplay v1.0.0 h1:Az8hDfbT+kdu9pO4OyK+nvSQQNU8CvLID3UdbyXmFCE=
+github.com/dave-miles/goreplay v1.0.0/go.mod h1:BXxlUbsPacrR9+ph8bdtbdsZU2KUgs08HW6/KmVQH84=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/eapache/go-resiliency v0.0.0-20160104191539-b86b1ec0dd42 h1:f8ERmXYuaC+kCSv2w+y3rBK/oVu6If4DEm3jywJJ0hc=

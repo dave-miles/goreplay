@@ -10,7 +10,7 @@ import (
 
 	"github.com/buger/goreplay/proto"
 
-	"github.com/mattbaird/elastigo/lib"
+	"github.com/dave-miles/elastigo/lib"
 )
 
 type ESUriErorr struct{}
