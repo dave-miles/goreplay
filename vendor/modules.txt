@@ -5,6 +5,12 @@ github.com/Shopify/sarama/mocks
 github.com/araddon/gou
 # github.com/bitly/go-hostpool v0.0.0-20171023180738-a3a6125de932
 github.com/bitly/go-hostpool
+# github.com/buger/goreplay v1.0.0
+github.com/buger/goreplay/byteutils
+github.com/buger/goreplay/proto
+github.com/buger/goreplay/raw_socket_listener
+# github.com/dave-miles/elastigo v0.0.0-20191127161208-bb2545536d8b
+github.com/dave-miles/elastigo/lib
 # github.com/davecgh/go-spew v1.1.0
 github.com/davecgh/go-spew/spew
 # github.com/eapache/go-resiliency v0.0.0-20160104191539-b86b1ec0dd42
@@ -21,8 +27,6 @@ github.com/google/gopacket/layers
 github.com/google/gopacket/pcap
 # github.com/klauspost/crc32 v0.0.0-20161016154125-cb6bfca970f6
 github.com/klauspost/crc32
-# github.com/mattbaird/elastigo v0.0.0-20170123220020-2fe47fd29e4b
-github.com/mattbaird/elastigo/lib
 # github.com/pierrec/lz4 v0.0.0-20161206202305-5c9560bfa9ac
 github.com/pierrec/lz4
 # github.com/pierrec/xxHash v0.0.0-20160112165351-5a004441f897
